@@ -4,7 +4,7 @@ package sistema.de.gestão.de.tarefas;
 public class ClassMain {
     public static void main(String[] args) {
         
-        teste
+        
         ClassMain main = new ClassMain();
         TaskManager taskManager = new TaskManager();
         Task task = new Task();
